@@ -31,7 +31,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Surv2308&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Surv2308&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Surv2308&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Surv2308&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -42,3 +42,8 @@
 
 ## 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurav-bhukte-ba32a0229)
+
+<div align="center">
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/Nishitbaria/Nishitbaria/blob/output/github-contribution-grid-snake.svg">
+  <br>      <br>     <br>      </div>
