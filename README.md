@@ -44,6 +44,6 @@
 
 ### Snake Eating my Contributions Graph
 <div align="center">
-  <br>
+ <br>
   <img alt="snake eating my contribution" src="https://github.com/Surv2308/Surv2308/blob/output/github-contribution-grid-snake.svg">
-  <br>      <br>     <br>      </div>
+ <br>      <br>     <br>      </div>
