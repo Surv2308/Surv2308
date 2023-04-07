@@ -43,4 +43,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/saurav-bhukte-ba32a0229)
 
 ### Snake Eating my Contributions Graph
-![snake gif](https://github.com/Surv2308/Surv2308/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <br>
+  <img alt="snake eating my contribution" src="https://github.com/Surv2308/Surv2308/blob/output/github-contribution-grid-snake.svg">
+  <br>      <br>     <br>      </div>
